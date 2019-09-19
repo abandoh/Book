@@ -24,7 +24,7 @@ public class ApiUtil {
     public static final String QUERY_PARAMETER_KEY = "q";
 
     public static final String KEY = "key";
-    public static final String API_KEY = "AIzaSyCnpjxTxoLuYOCbN6yuYGKyOi5DOe5JfyQ";
+    public static final String API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
     public static URL buildURL(String title){
          //String fullUrl = BASE_API_URL + "?q=" + title;
